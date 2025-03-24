@@ -1,1 +1,1 @@
-<a href="https://github.com/JH1476"><img align="center" style="height:100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH1476&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/JH1476"><img align="center" style="height:120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH1476&layout=compact&theme=nord&hide_border=true" /></a> 
